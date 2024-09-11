@@ -1,0 +1,10 @@
+ASCII - Acronym for American Standard Code for Information Interchange, is a 
+character encoding standard that assigns a unique numerical value to all 
+characters including special symbols.
+
+The ASCII standard was introduced to streamline the sharing of information 
+between different languages, systems and compilers. ASCII code for a character, 
+say A, is a unique sequence of bits stored in memory instead of A itself.(ASCII code for A is 65)
+
+Each ASCII code occupies 7 bits in memory and each character is assigned a value ranging 
+from 0 to 127.(128 total characters)
